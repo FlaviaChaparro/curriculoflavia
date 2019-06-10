@@ -3,7 +3,7 @@
 }
 
 body{
-	background:linear-gradient(#e3f2fd,#d1c4e9,#ffcdd2);
+	background:linear-gradient(white,#e3f2fd,#d1c4e9,#ffcdd2);
 	visibility: inherit;
 	z-index: 50;
 	margin:0px;
